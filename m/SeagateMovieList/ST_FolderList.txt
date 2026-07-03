@@ -1,0 +1,23 @@
+ Volume in drive E is One Touch2
+ Volume Serial Number is 61B7-B55C
+ Directory of E:\m\ST
+2021/02/08  16:58 .
+2021/02/08  16:58 ..
+2020/07/06  17:09 01STTheMotionPicture[1979]_avi_mp4
+2020/08/16  13:12 02STTheWrathOfKhan[1982]_avi_mp4
+2020/08/16  13:12 03STTheSearchForSpock[1984]_avi_mp4
+2020/08/16  13:13 04STTheVoyageHome[1996]_avi_mp4
+2020/08/20  17:18 05STTheFinalFrontier[1989]_avi_mp4
+2020/10/02  14:39 06STTheUndiscoveredCountry[1991]_avi_mp4
+2020/11/04  19:42 07STGenerations[1994]_avi_mp4
+2020/11/04  19:40 08STFirstContact[1996]_avi_mp4
+2020/11/15  08:59 09STInsurrection[1998]_avi_mp4
+2020/11/15  09:00 10STNemisis[2002]_avi_mp4
+2020/08/20  17:17 11StarTrek[2009]_avi_mp4
+2020/07/17  10:02 12IntoDarkness[2013]_mp4
+2020/07/06  17:10 13Beyond[2016]_mp4
+2025/01/25  18:09 14Section.31.[2025]_mp4
+2025/10/13  08:31 15Renegades.[2015]_mp4
+2021/03/09  11:02 ShortMoviesAboutST_mp4
+               0 File(s)              0 bytes
+              18 Dir(s)  1ÿ248ÿ565ÿ395ÿ456 bytes free

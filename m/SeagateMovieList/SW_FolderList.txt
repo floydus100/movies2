@@ -1,0 +1,19 @@
+ Volume in drive E is One Touch2
+ Volume Serial Number is 61B7-B55C
+ Directory of E:\m\SW
+2021/07/18  13:19 .
+2021/07/18  13:19 ..
+2018/09/23  13:44 01_SW_ThePhantomMenace[1999]_avi_mp4
+2018/09/23  13:39 02_SW_AttackOfTheClones[2002]_avi_mp4
+2021/04/02  10:15 03_SW_RevengeOfTheSith[2005]_avi_mp4
+2021/04/02  10:15 04_SW_ANewHope[1977]_avi_mp4
+2018/09/23  13:40 05_SW_TheEmpireStrikesBack[1980]_avi_mp4
+2018/09/23  13:41 06_SW_ReturnOfTheJedi[1983]_avi_mp4
+2020/06/27  13:43 07_SW_TheForceAwakens[2015]_mpg_mp4
+2020/06/27  13:57 08_SW_RogueOne[2016]_dvd_mp4
+2022/03/13  14:47 09_SW_TheLastJedi[2017]_mp4
+2021/04/02  10:16 10_SW_TheRiseOfSkywalker[2020]_mp4
+2024/09/13  10:54 11_SW_The.Clone.Wars.[2008]_mp4
+2020/07/12  17:31 Solo_mp4
+               0 File(s)              0 bytes
+              14 Dir(s)  1ÿ248ÿ565ÿ395ÿ456 bytes free

@@ -1,0 +1,18 @@
+ Volume in drive E is One Touch2
+ Volume Serial Number is 61B7-B55C
+ Directory of E:\m\Y
+2022/09/19  09:13 .
+2022/09/19  09:13 ..
+2018/10/07  10:18 Year.One.[2009]_avi_mp4
+2025/08/15  14:49 Yellow.Is.The.New.Black.[2018]_mp4
+2025/11/10  10:43 Yes.Day.[2021]_mp4
+2023/12/12  20:14 Yes.God.Yes.[2020]_mp4
+2020/09/29  11:58 Yes.Man.[2008]_avi_mkv_mp4
+2021/11/06  13:39 You.Again.[2010]_mp4
+2023/12/19  11:12 You.Do.You.[2023]_mp4
+2023/12/08  10:15 You.May.Not.Kiss.The.Bride.[2011]_mp4
+2025/08/18  12:19 You.Me.And.Dupree.[2006]_mp4
+2025/02/04  09:32 Youre.Cordially.Invited.[2025]_mp4
+2022/09/19  13:30 Youth.[2015]_mp4
+               0 File(s)              0 bytes
+              13 Dir(s)  1ÿ248ÿ565ÿ395ÿ456 bytes free

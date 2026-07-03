@@ -1,0 +1,20 @@
+ Volume in drive E is One Touch2
+ Volume Serial Number is 61B7-B55C
+ Directory of E:\m\Batman
+2024/03/02  16:27 .
+2024/03/02  16:27 ..
+2018/09/29  13:04 Batman.1.[1989]_avi_mp4
+2024/02/12  08:46 Batman.1.[2022]_mp4
+2018/09/29  13:07 Batman.2.Returns.[1992]_avi_mp4
+2018/09/29  13:05 Batman.3.Mask.of.the.Phantasm.[1993]_avi_mp4
+2018/09/29  13:06 Batman.4.Forever.[1995]_avi_mp4
+2018/09/29  13:04 Batman.5.And.Robin.[1997]_avi_mp4
+2018/09/29  13:06 Batman.6.Begins.[2005]_avi_mp4
+2018/10/27  13:28 Batman.7.Dark.Night.[2008]_avi_mp4
+2018/09/29  13:05 Batman.7a.Gotham.Knight.Animated.[2008]_avi_mp4
+2018/09/29  13:07 Batman.8.Year.One.[2011]_avi_mp4
+2022/03/31  10:51 Batman.9.The.Dark.Knight.Rises.[2012]_mp4
+2018/09/29  13:07 Batman.Umasked.Documantary.[2008]_avi
+2025/08/20  13:59 Return.to.the.Batcave.The.Misadventures.of.Adam.and.Burt.[2003]_mp4
+               0 File(s)              0 bytes
+              15 Dir(s)  1ÿ248ÿ565ÿ395ÿ456 bytes free

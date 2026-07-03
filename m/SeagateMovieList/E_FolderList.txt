@@ -1,0 +1,42 @@
+ Volume in drive E is One Touch2
+ Volume Serial Number is 61B7-B55C
+ Directory of E:\m\E
+2022/11/12  17:01 .
+2022/11/12  17:01 ..
+2022/10/04  08:08 Earth.Girls.Are.Easy.[1988]_mp4
+2025/10/07  08:11 Easy.A.[2010]_mp4
+2018/09/29  13:35 Eat.Pray.Love.[2010]_avi_mp4
+2025/08/01  11:57 Eden.[2025]_mp4
+2022/04/23  11:20 Edge.Of.Tomorrow.[2014]_mp4
+2026/04/11  11:48 El.Camino.A.Breaking.Bad.Movie.[2019]_mp4
+2024/12/02  13:49 Elevation.[2024]_mp4
+2024/09/13  10:04 Eleven.Days.Eleven.Nights.[1987]_mp4
+2024/09/13  10:33 Eleven.Eleven.[2018]_mp4
+2021/09/30  09:22 Elizabethtown.[2005]_mp4
+2022/05/12  12:00 Elsewhere.[2020]_mp4
+2024/05/27  08:25 Emily.[2023]_mp4
+2018/09/29  13:36 Emperors.New.Groove.[2000]_avi
+2018/09/29  13:36 Employee.Of.The.Month.[2006]_avi_mp4
+2020/11/29  10:55 Enchanted.[2007]_avi_mp4
+2022/04/05  09:33 Enders.Game.[2013]_mp4
+2022/10/04  08:11 Ennio.[2021]_mp4
+2022/05/23  15:07 Enough.[2002]_mp4
+2023/09/16  18:18 Entrapment.[1999]_mp4
+2020/04/21  14:07 Epic.[2013]_avi
+2020/07/26  17:34 Epic.Movie.[2007]_mp4
+2022/09/19  09:09 Erin.Brockovich.[2000]_mp4
+2026/02/21  15:17 Ernest.Goes.To.Jail.[1990]mp4
+2024/03/12  08:11 Escape.From.Area.51.[2021]_mp4
+2020/09/29  11:34 Escape.Room.[2019]_mp4
+2022/01/13  16:03 Eternals.[2021]_mp4
+2018/10/09  19:39 Euro.Trip.[2004]_divx_mp4
+2023/11/12  12:05 Ever.After.A.Cinderella.Story.[1998]_mp4
+2020/04/21  14:07 Everyones.Hero.[2006]_avi_mp4
+2023/11/16  12:54 Everything.Beautiful.Is.Far.Away.[2017]_mp4
+2025/07/21  13:51 Everythings.Going.To.Be.Great.[2025]_mp4
+2018/09/29  13:35 Exit.Strategy.[2012]_avi
+2024/03/31  14:20 EXmas.[2023]_mp4
+2025/08/30  13:39 Extract.[2009]_mp4
+2022/10/31  08:30 Eyes.Wide.Shut.[1999]_mp4
+               0 File(s)              0 bytes
+              37 Dir(s)  1ÿ248ÿ565ÿ395ÿ456 bytes free

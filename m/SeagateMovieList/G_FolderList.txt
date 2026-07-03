@@ -1,0 +1,55 @@
+ Volume in drive E is One Touch2
+ Volume Serial Number is 61B7-B55C
+ Directory of E:\m\G
+2022/10/21  11:44 .
+2022/10/21  11:44 ..
+2020/04/21  14:09 G_Force.[2009]_avi
+2022/10/21  11:44 Galaxy.Games.[2022]_mp4
+2020/08/11  15:39 Galaxy.Quest.[1999]_dvd_mp4
+2024/11/24  12:09 Genius.[2016]_mp4
+2020/09/29  11:39 George.Of.The.Jungle.[1997]_avi_mp4
+2025/02/11  09:23 Get.A.Clue.[2002]_mp4
+2020/11/19  18:38 Get.A.Job.[2016]_mp4
+2023/04/27  11:00 Get.Smart.[2008]_mp4
+2022/01/03  11:39 Getting.to.Know.You.[2020]_mp4
+2024/04/29  08:27 Ghost.Town.[2008]_mp4
+2023/03/27  08:21 Ghostbusters.[2016]_mp4
+2026/04/11  11:51 Ghostbusters.Afterlife.[2021]_mp4
+2023/11/07  12:42 Ghosted.[2023]_mp4
+2018/09/29  13:43 Ghosts.Of.Girlfriends.Past.[2009]_avi_mp4
+2020/10/29  18:03 Gigantic.[2008]_mp4
+2025/12/08  11:22 Girl.From.Nowhere.[2017]_mp4
+2022/01/03  11:42 Girl.Most.Likely.[2012]_mp4
+2022/05/26  09:22 Gladiator.[1992]_mp4
+2022/08/25  09:59 Gloria.Bell.[2019]_mp4
+2022/09/13  08:24 Glory.[1989]_mp4
+2025/02/11  09:24 Gods.Not.Dead.2.[2016]_mp4
+2025/02/03  19:59 Gods.Not.Dead.We.The.People.[2021]_mp4
+2024/09/23  09:28 Gods.Time.[2023]_mp4
+2021/04/02  09:37 Godzilla.King.of.the.Monsters.[2019]_mp4
+2021/04/02  09:37 Godzilla.vs.Kong.[2021]_mp4
+2018/10/27  10:33 Going.Postal.[2010]_avi_mp4
+2024/11/04  08:23 Gone.In.60.Seconds.[1974]_mp4
+2018/09/29  13:43 Gone.In.60.Seconds.[2000]_avi_mp4
+2025/12/03  09:31 Good.Fortune.[2025]_mp4
+2018/09/29  13:44 Good.Intentions.[2010]_avi
+2025/12/29  08:56 Good.Luck.Chuck.[2007]_mp4
+2025/01/07  14:54 Goodrich.[2024]_mp4
+2024/07/29  11:20 Grand.Isle.[2019]_mp4
+2022/05/01  16:53 Gravity.[2013]_mp4
+2020/07/12  17:28 Green.Book.[2018]_mp4
+2018/10/27  13:47 Green.Lantern.[2011]_avi_mp4
+2020/04/21  14:09 Green.Lantern.First.Flight.Animated.[2009]_avi
+2022/08/23  09:45 Greenland.[2020]_mp4
+2026/02/21  15:18 Greenland.2.Migration.[2026]_mp4
+2021/12/09  09:28 Greyhound.[2020]_mp4
+2022/09/19  08:45 Greyhound.Attack.[2019]_mp4
+2026/04/11  11:56 Gringo.[2018]_mp4
+2018/10/27  11:02 Grown.Ups.[2010]_avi_mp4
+2021/04/02  10:14 Grown.Ups.2.[2013]_mp4
+2021/02/08  11:05 Guardians.of.the.Galaxy.[2014]_mp4
+2025/07/13  15:01 Guiding.Emily.[2023]mp4
+2018/09/29  13:44 Gullivers.Travels.[2010]_avi_mp4
+2022/10/04  08:14 Gunless.[2019]_mp4
+               0 File(s)              0 bytes
+              50 Dir(s)  1ÿ248ÿ565ÿ395ÿ456 bytes free
