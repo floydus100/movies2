@@ -1,0 +1,35 @@
+ Volume in drive E is One Touch2
+ Volume Serial Number is 61B7-B55C
+ Directory of E:\m\007
+2022/11/12  15:27 .
+2022/11/12  15:27 ..
+2022/11/13  13:26 01 Casino.Royale.[1966]_avi_mp4
+2021/11/06  13:33 02 Dr.No.[1962]_avi_mp4
+2022/04/06  20:31 03 From.Russia.With.Love.[1963]_avi_mp4
+2022/04/06  20:33 04 Goldfinger.[1964]_avi_mp4
+2022/04/06  20:35 05 Thunderball.[1965]_avi_mp4
+2022/04/06  20:36 06 You.Only.Live.Twice.[1967]_avi_mp4
+2022/04/06  20:37 07 On.Her.Majesty's.Secret.Service.[1969]_avi_mp4
+2022/04/06  20:38 08 Diamonds.Are.Forever.[1971]_avi_mp4
+2022/04/06  20:38 09 Live.and.Let.Die.[1973]_avi_mp4
+2021/11/04  13:13 10 The.Man.With.The.Golden.Gun.[1974]_avi_mp4
+2022/04/06  20:42 11 The.Spy.Who.Loved.Me.[1977]_avi_mp4
+2022/02/27  13:47 12 Moonraker.[1979]_avi_mp4
+2022/02/27  13:42 13 For.Your.Eyes.Only.[1981]_avi_mp4
+2021/11/09  15:14 14 Octopussy.[1983]_avi_mp4
+2022/04/06  20:43 15 Never.Say.Never.Again.[1983]_avi_mp4
+2022/03/13  14:19 16 A.View.To.A.Kill.[1985]_avi_mp4
+2022/01/18  09:50 17 The.Living.Daylights.[1987]_avi_mp4
+2022/02/27  13:45 18 Licence.to.Kill.[1989]_avi_mp4
+2022/04/06  20:44 19 GoldenEye.[1995]_avi_mp4
+2022/04/06  20:45 20 Tomorrow.Never.Dies.[1997]_avi_mp4
+2022/01/18  10:04 21 The.World.Is.Not.Enough.[1999]_avi_mp4
+2021/09/12  15:02 22 Die.Another.Day.[2002]_avi_mp4
+2022/03/03  09:29 23 Casino.Royale.[2006]_avi_mp4
+2022/01/18  10:25 24 Quantum.Of.Solace.[2008]_avi_mp4
+2020/04/20  13:05 25 Skyfall.[2012]_dvd_mp4
+2022/11/13  13:30 26 Spectre.[2015]_dvd_mp4
+2021/12/09  09:28 27 No.Time.To.Die.[2021]_mp4
+2020/04/20  14:32 Documentaries
+               0 File(s)              0 bytes
+              30 Dir(s)  1 248 565 395 456 bytes free
